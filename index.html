@@ -29,7 +29,6 @@
             style="margin-top: -1px;" />
         </a>
 
-
         <!-- Toggle button -->
         <button class="navbar-toggler" type="button" data-mdb-toggle="collapse" data-mdb-target="#navbarButtonsExample"
           aria-controls="navbarButtonsExample" aria-expanded="false" aria-label="Toggle navigation">
@@ -51,6 +50,9 @@
             </li>
             <li class="nav-item">
               <a class="nav-link" href="https://www.vereinonline.org/Maennerschuetzen_Gaimersheim/">Vereinskalender</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="https://www.rwk-onlinemelder.de/online/listen/416">RWK-Onlinemelder</a>
             </li>
           </ul>
           <!-- Left links -->
@@ -143,23 +145,23 @@
   <!-- Carousel wrapper -->
 
   <div class="p-5 text-center bg-light">
-    <h1 class="mb-3">Unsere Sportangebote</h1>
+    <h1 class="mb-3">Unser Sportangebot</h1>
   </div>
 
   <div class="bg-light">
     <div class="container-xxl bg-light">
-
-      <div class="row row-cols-1 row-cols-md-3 g-4">
+      <div class="row row-cols-1 row-cols-md-2 g-4">
         <div class="col">
           <div class="card h-100">
-            <iframe class="w-100"
-              src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d676.2233287014136!2d11.368199065722447!3d48.8030728410269!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sde!2sde!4v1697882282453!5m2!1sde!2sde"
-              height="300" style="border:0;" allowfullscreen="" loading="lazy"
-              referrerpolicy="no-referrer-when-downgrade"></iframe>
+            <a href="bogen.html">
+              <div class="bg-image hover-zoom">
+                <img src="img/bogen.jpg" class="card-img-top" />
+              </div>
+            </a>
             <div class="card-body">
               <h5 class="card-title">Bogenschießen</h5>
               <p class="card-text">
-                Hier haben wir unseren Koboldgarten in dem wir unsere 3 verschiedenen Bogendisziplinen schießen.
+                Bogen wird bei uns im Koboldgarten geschoßen.
               </p>
             </div>
           </div>
@@ -170,23 +172,10 @@
               <img src="img/Stand.jpg" class="card-img-top" />
             </div>
             <div class="card-body">
-              <h5 class="card-title">Luftgewehr/Luftpistole</h5>
+              <h5 class="card-title">Luftgewehr & Luftpistole</h5>
               <p class="card-text">
-                Luftgewehr und Luftpistole werden bei uns im Vereinsheim geschoßen.
-              </p>
-            </div>
-          </div>
-        </div>
-
-        <div class="col">
-          <div class="card h-100">
-            <div class="bg-image hover-zoom">
-              <img src="img/Stand.jpg" class="card-img-top" />
-            </div>
-            <div class="card-body">
-              <h5 class="card-title">Lichtpistole</h5>
-              <p class="card-text">
-                Für Kinder bieten wir auch Lichtpistole an.
+                Luftgewehr und Luftpistole werden bei uns im Vereinsheim geschoßen. Für Kinder bieten wir auch
+                Lichtpistole an.
               </p>
             </div>
           </div>
@@ -250,72 +239,8 @@
           <div class="card h-100">
             <div class="d-flex align-items-center justify-content-center" style="height: 450px;">
               <!--Section: Contact v.2-->
-              <div row>
-                <!--Grid column-->
-                <form id="contact-form" name="contact-form"
-                  action="https://www.vereinonline.org/Maennerschuetzen_Gaimersheim/?kontakt" method="POST">
-
-                  <!--Grid row-->
-                  <div class="row">
-
-                    <!--Grid column-->
-                    <div class="col-md-6">
-                      <div class="md-form mb-0">
-                        <input type="text" id="name" name="name" class="form-control">
-                        <label for="name" class="">Dein Name</label>
-                      </div>
-                    </div>
-                    <!--Grid column-->
-
-                    <!--Grid column-->
-                    <div class="col-md-6">
-                      <div class="md-form mb-0">
-                        <input type="text" id="email" name="email" class="form-control">
-                        <label for="email" class="">Deine Email</label>
-                      </div>
-                    </div>
-                    <!--Grid column-->
-
-                  </div>
-                  <!--Grid row-->
-
-                  <!--Grid row-->
-                  <div class="row">
-                    <div class="col-md-12">
-                      <div class="md-form mb-0">
-                        <input type="text" id="subject" name="subject" class="form-control"
-                          placeholder="Schnupperschießen">
-                        <label for="subject" class="">Betreff</label>
-                      </div>
-                    </div>
-                  </div>
-                  <!--Grid row-->
-
-                  <!--Grid row-->
-                  <div class="row">
-
-                    <!--Grid column-->
-                    <div class="col-md-12">
-
-                      <div class="md-form">
-                        <textarea type="text" id="message" name="message" rows="2"
-                          class="form-control md-textarea"></textarea>
-                        <label for="message">Deine Nachricht</label>
-                      </div>
-
-                    </div>
-                  </div>
-                  <!--Grid row-->
-
-                </form>
-
-                <div class="text-center text-md-left">
-                  <a class="btn btn-primary" onclick="document.getElementById('contact-form').submit();">Senden</a>
-                </div>
-
-                <div class="status"></div>
-                <!--Grid column-->
-              </div>
+              <a href="https://www.vereinonline.org/Maennerschuetzen_Gaimersheim/?kontakt"><button type="button"
+                  class="btn btn-primary">Jetzt Anmelden</button></a>
               <!--Section: Contact v.2-->
             </div>
             <div class="card-body">
