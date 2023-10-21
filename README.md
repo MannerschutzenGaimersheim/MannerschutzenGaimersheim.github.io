@@ -1,8 +1,6 @@
 # MannerschutzenGaimersheim.github.io
-
+### Link zur Entwicklunks Webseite
 https://mannerschutzengaimersheim.github.io/
-
-https://bootstrapmade.com/
 
 ### MDB5
 Version: FREE 6.4.2
