@@ -17,7 +17,6 @@ function hideCookieBanner() {
 /* Checks the localstorage and shows Cookie banner based on it. */
 function initializeCookieBanner() {
     let isCookieAccepted = getCookie("cb_isCookieAccepted");
-    console.log(isCookieAccepted);
     if (isCookieAccepted === "yes") {
         loadExternal();
     } else {
