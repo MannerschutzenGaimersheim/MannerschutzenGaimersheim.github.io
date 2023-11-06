@@ -1,5 +1,5 @@
 # MannerschutzenGaimersheim.github.io
-### Link zur Entwicklunks Webseite
+### Link zur Entwicklungs Webseite
 https://mannerschutzengaimersheim.github.io/
 
 ### MDB5
