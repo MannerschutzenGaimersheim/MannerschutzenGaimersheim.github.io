@@ -30,3 +30,4 @@ Doch wer hat den besten Schuss beim Königsschießen abgegeben und ist somit Sch
 
 Zum Abschluss bedankte sich Gerhard Frank bei allen Mitwirkenden und Gästen für einen sehr gelungenen Abend. Er wünschte seinen Männerschützen ein besinnliche Adventszeit, frohe Weihnachten und einen guten Rutsch in ein gesundes Jahr 2024. 
 
+Andrea Reinl
