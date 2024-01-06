@@ -5,7 +5,7 @@ date: 2023-12-17
 ---
 
 <figure class="figure">
-  <img src="/img/posts/Weihnachtsmarkt%202023.jpg" class="figure-img img-fluid rounded" style="max-width: 500px">
+  <img src="/img/posts/Weihnachtsmarkt%202023.jpg" class="figure-img img-fluid rounded" style="max-width: 400px">
   <figcaption class="figure-caption">Männerschützen backen Rahmfleck für die Schützenjugend.
 </figcaption>
 </figure>

@@ -10,8 +10,6 @@ date: 2023-12-02
 </figcaption>
 </figure>
 
-# Weihnachtsfeier der Männerschützen
-
 Wie jedes Jahr feiern die Männerschützen Gaimersheim Anfang Dezember ihre Weihnachtsfeier in den Vereinsräumlichkeiten im ehemaligen Gasthaus am Marktplatz. Schützenmeister Gerhard Frank begrüßte alle Vereinsmitglieder im besonderen, die Ehrenmitglieder und den Eherenschützenmeister Johann Maier und die Gauschützenmeisterin des Sportschützen Gaues Ingolstadt Elisabeth Maier.  
 
 Frank bedankte sich für die Unterstützung aller Mitglieder des vergangen Jahres. Hervorgehoben wurde die Arbeit aller Ausschussmitglieder die bei jedem, egal ob Arbeits-, Geselligkeits- oder Sportlichen Einsatz, immer tatkräftig geholfen haben. 
