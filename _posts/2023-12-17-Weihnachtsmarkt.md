@@ -10,8 +10,6 @@ date: 2023-12-17
 </figcaption>
 </figure>
 
-# Weihnachtsmarkt Gaimersheim 
-
 Männerschützen backen Rahmfleck für die Schützenjugend
 Der Weihnachtsmarkt in  Gaimersheim vom 15.- 17. Dezember fand am Johann Staudacher Platz direkt vor dem Markmuseum statt. Neben lokalen Handwerksausstellern waren viele Vereine und Verbände mit ihren Ständen vertreten die sich um das Leibliche Wohl der Besucher sorgten. 
 
