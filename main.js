@@ -28,6 +28,7 @@ function loadExternal() {
     setExternalSrc('google-map-bogenplatz', "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d781.2753779891998!2d11.368139189920491!3d48.803143850549944!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x479efd8aa88c1a15%3A0x17c591e32e8b0401!2sKoboldgarten%2C%2085080%20Gaimersheim!5e0!3m2!1sde!2sde!4v1697927077708!5m2!1sde!2sde")
     setExternalSrc('google-map-vereinsheim', "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d438.42991855488043!2d11.370119866198793!3d48.80841085070074!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x479f03a1269566df%3A0xa307763263105b5a!2sSch%C3%BCtzenverein%20M%C3%A4nnersch%C3%BCtzengesellschaft%20Gaimersheim!5e0!3m2!1sde!2sde!4v1697883880594!5m2!1sde!2sde")
     setExternalSrc('vereinonlie-kalender', "https://www.vereinonline.org/Maennerschuetzen_Gaimersheim/?kalender&dialog=1&buttons=nein&titel=nein&art=ListeZ&nolinks=1&zeit&zusammen&limit=10")
+    setExternalSrc('google-map-turnhalle-gaimersheim', "https://www.google.com/maps/embed/v1/place?q=place_id:EjFNYXJ0aW4tTHVkd2lnLVN0cmHDn2UsIDg1MDgwIEdhaW1lcnNoZWltLCBHZXJtYW55Ii4qLAoUChIJ43RsPHYCn0cRE0-RzXj4gWcSFAoSCflFzoEMAp9HEQDPSzgt2cBA&key=...")
 }
 
 function setExternalSrc(id, src) {
